@@ -11,6 +11,9 @@
       <div class="ml-auto flex items-center">
         <h1>Experience</h1>
       </div>
+      <div class="ml-auto flex items-center">
+        <h1>Skills</h1>
+      </div>
     </div>
   </div>
 </template>
