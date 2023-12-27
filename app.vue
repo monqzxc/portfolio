@@ -1,5 +1,18 @@
 <template>
   <div>
-    <h1>Gumalaw</h1>
+    <div class="w-full flex items-center">
+      <div class="flex flex-auto truncate items-center">
+        <h1 class="font-normal text-xl md:text-xl">Education</h1>
+      </div>
+      <div class="ml-auto flex items-center">
+        <h1>Home</h1>
+      </div>
+      <div class="ml-auto flex items-center">
+        <h1>About</h1>
+      </div>
+      <div class="ml-auto flex items-center">
+        <h1>Experience</h1>
+      </div>
+    </div>
   </div>
 </template>
